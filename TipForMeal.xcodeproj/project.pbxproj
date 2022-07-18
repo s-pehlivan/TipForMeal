@@ -73,6 +73,7 @@
 		9758153B2854D8AD00EA231E = {
 			isa = PBXGroup;
 			children = (
+				97FB49F32885D7D5005AEDC9 /* README.md */,
 				975815462854D8AD00EA231E /* TipForMeal */,
 				975815452854D8AD00EA231E /* Products */,
 			);
@@ -89,7 +90,6 @@
 		975815462854D8AD00EA231E /* TipForMeal */ = {
 			isa = PBXGroup;
 			children = (
-				97FB49F32885D7D5005AEDC9 /* README.md */,
 				975815472854D8AD00EA231E /* AppDelegate.swift */,
 				975815492854D8AD00EA231E /* SceneDelegate.swift */,
 				973F0FD92854F7DD00536311 /* Models */,
