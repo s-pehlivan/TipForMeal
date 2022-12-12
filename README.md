@@ -23,5 +23,4 @@ Project is: _complete_.
 
 
 ## Acknowledgements
-Give credit here.
 - This project was made for [iOS & Swift - The Complete iOS App Development Bootcamp.](https://www.udemy.com/course/ios-13-app-development-bootcamp/).
